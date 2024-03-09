@@ -39,9 +39,8 @@ node -v
 npm -v
 This command will display the installed version of Node.js and npm, respectively.
 
-5. **Update npm (Optional)**: It's recommended to update npm to the latest version using the following command:
-npm install npm@latest -g
-This command will update npm to the latest stable version globally.
+![Screenshot 2024-03-09 115031](https://github.com/Aditi22222/Node.js-/assets/162342704/0f7271ca-f7e9-4ae8-866b-18ca9fb39c36)
+
 
 6. **Test Installation**: To ensure that Node.js is working correctly, create a simple JavaScript file (e.g., `app.js`) with the following code:
 ```javascript
