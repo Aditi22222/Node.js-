@@ -30,18 +30,20 @@ To install Node.js on your computer, follow these steps:
 
 1. **Download Node.js**: Visit the official Node.js website at [nodejs.org](https://nodejs.org) and download the appropriate installer for your operating system (Windows, macOS, or Linux).
 
-2. **Run Installer**: Once the download is complete, run the installer and follow the on-screen instructions. Accept the license agreement and choose the installation directory if prompted.
+   ![Screenshot 2024-03-09 114549](https://github.com/Aditi22222/Node.js-/assets/162342704/6d67d8c3-f46b-4628-be25-667bb6bfe77f)
 
-3. **Verify Installation**: After the installation is complete, open a command prompt or terminal window and type the following command to verify that Node.js and npm (Node Package Manager) have been installed successfully:
+3. **Run Installer**: Once the download is complete, run the installer and follow the on-screen instructions. Accept the license agreement and choose the installation directory if prompted.
 
-
+4. **Verify Installation**: After the installation is complete, open a command prompt or terminal window and type the following command to verify that Node.js and npm (Node Package Manager) have been installed successfully:
+node -v
+npm -v
 This command will display the installed version of Node.js and npm, respectively.
 
-4. **Update npm (Optional)**: It's recommended to update npm to the latest version using the following command:
-
+5. **Update npm (Optional)**: It's recommended to update npm to the latest version using the following command:
+npm install npm@latest -g
 This command will update npm to the latest stable version globally.
 
-5. **Test Installation**: To ensure that Node.js is working correctly, create a simple JavaScript file (e.g., `app.js`) with the following code:
+6. **Test Installation**: To ensure that Node.js is working correctly, create a simple JavaScript file (e.g., `app.js`) with the following code:
 ```javascript
 console.log("Hello, Node.js!");
-
+Save the file and run it using Node.js by typing the following command in the terminal
