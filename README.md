@@ -44,8 +44,9 @@ This command will display the installed version of Node.js and npm, respectively
 
 6. **Test Installation**: To ensure that Node.js is working correctly, create a simple JavaScript file (e.g., `app.js`) with the following code:
 ```javascript
-console.log("Hello, Node.js!");
+console.log("Hello, Node.js!")
 Save the file and run it using Node.js by typing the following command in the terminal.
+
 # Screenshot
 
 
