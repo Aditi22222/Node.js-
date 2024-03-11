@@ -6,7 +6,8 @@
 - [Javascript Fundamentals in Node](#Javascript-Fundamentals-in-Node)
 - [The Import Function And Variables From Another File](The-Import-Function-And-Variables-From-Another-File)
 - [Http Module](#Http-Module)
-- [Core Module ](Core-Module) 
+- [Core Module ](Core-Module)
+- [Nodemon Package](Nodemon-Package)
 
 
 # Introduction to Node.js
@@ -69,3 +70,8 @@ Save the file and run it using Node.js by typing the following command in the te
 ![Screenshot 2024-03-09 123318](https://github.com/Aditi22222/Node.js-/assets/162342704/6fe4933a-0107-4503-90a1-5d856c049c94)
 # Core Module  
 ![Screenshot 2024-03-11 113746](https://github.com/Aditi22222/Node.js-/assets/162342704/1648955a-b5fa-4c08-8644-f1dd023ef6ca)
+# Nodemon Package
+
+![Screenshot 2024-03-11 122059](https://github.com/Aditi22222/Node.js-/assets/162342704/0f74eaf1-74a1-4c18-a97e-09aa260601b3)
+
+![Screenshot 2024-03-11 122140](https://github.com/Aditi22222/Node.js-/assets/162342704/0e376b6d-7623-406e-b28c-3743186643a1)
