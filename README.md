@@ -5,7 +5,8 @@
 - [Installation](#installation)
 - [Javascript Fundamentals in Node](#Javascript-Fundamentals-in-Node)
 - [The Import Function And Variables From Another File](The-Import-Function-And-Variables-From-Another-File)
-- [#Http Module](#Http-Module)
+- [Http Module](#Http-Module)
+- [Core Module ](Core-Module) 
 
 
 # Introduction to Node.js
@@ -66,3 +67,5 @@ Save the file and run it using Node.js by typing the following command in the te
 #The Import Function And Variables From Another File
 ![Screenshot 2024-03-09 123310](https://github.com/Aditi22222/Node.js-/assets/162342704/3fa8d5f0-8213-4612-a890-928c195a93b9)
 ![Screenshot 2024-03-09 123318](https://github.com/Aditi22222/Node.js-/assets/162342704/6fe4933a-0107-4503-90a1-5d856c049c94)
+# Core Module  
+![Screenshot 2024-03-11 113746](https://github.com/Aditi22222/Node.js-/assets/162342704/1648955a-b5fa-4c08-8644-f1dd023ef6ca)
