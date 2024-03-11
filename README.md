@@ -56,6 +56,9 @@ Save the file and run it using Node.js by typing the following command in the te
 ![Screenshot 2024-03-09 122156](https://github.com/Aditi22222/Node.js-/assets/162342704/7f6fa3de-93f3-4c4e-86dc-e5016dcda1fd)
 ![Screenshot 2024-03-09 122315](https://github.com/Aditi22222/Node.js-/assets/162342704/238f1950-bbe9-4f22-b05e-4886309b3038)
 
+#Http Module
+![Screenshot 2024-03-11 111721](https://github.com/Aditi22222/Node.js-/assets/162342704/4295380a-defc-4f4e-8e7e-9fecd85a33ff)
+![Screenshot 2024-03-11 111731](https://github.com/Aditi22222/Node.js-/assets/162342704/5f446aaf-90bd-4305-a552-fdb3618e1033)
 
 #The Import Function And Variables From Another File
 ![Screenshot 2024-03-09 123310](https://github.com/Aditi22222/Node.js-/assets/162342704/3fa8d5f0-8213-4612-a890-928c195a93b9)
