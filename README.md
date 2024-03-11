@@ -84,3 +84,36 @@ Save the file and run it using Node.js by typing the following command in the te
 ![Screenshot 2024-03-11 125314](https://github.com/Aditi22222/Node.js-/assets/162342704/6e06adaf-b6b9-4d0c-9e01-52681e5a5e7a)
 
 # Postman
+
+# Testing Node.js HTTP Server with Postman
+
+## Using Postman to Test the HTTP Server
+
+### 1. Start the Node.js server
+Ensure that the Node.js server created in the program is running. If not, start the server using the command `node your_server_file.js`.
+
+### 2. Open Postman
+Launch the Postman application on your system. If you don't have Postman installed, you can download it from [here](https://www.postman.com/downloads/).
+
+### 3. Create a new request
+Click on the "New" button in Postman to create a new request.
+
+### 4. Set request details
+- Choose the HTTP method "GET" from the dropdown menu.
+- Enter the URL `http://localhost:5000` in the address bar. Adjust the port number if your server is running on a different port.
+
+### 5. Send the request
+Click on the "Send" button to send the request to the Node.js server.
+
+### 6. Inspect the response
+- Postman will display the response received from the server in the response body section.
+- Verify that the response contains JSON data with information about Aditi Singh.
+
+
+
+![Screenshot 2024-03-11 152626](https://github.com/Aditi22222/Node.js-/assets/162342704/3c50eb54-0299-43d2-ae10-db1bf154740e)
+
+![Screenshot 2024-03-11 152637](https://github.com/Aditi22222/Node.js-/assets/162342704/c3a956ea-f8bc-40db-9b7f-4e18b0055a2e)
+
+![Screenshot 2024-03-11 152654](https://github.com/Aditi22222/Node.js-/assets/162342704/8e71be5c-edb7-489f-a9b4-331639384cde)
+
