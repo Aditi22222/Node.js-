@@ -8,6 +8,7 @@
 - [Http Module](#Http-Module)
 - [Core Module ](Core-Module)
 - [Nodemon Package](Nodemon-Package)
+- [API](API)
 
 
 # Introduction to Node.js
@@ -76,4 +77,8 @@ Save the file and run it using Node.js by typing the following command in the te
 
 ![Screenshot 2024-03-11 122140](https://github.com/Aditi22222/Node.js-/assets/162342704/0e376b6d-7623-406e-b28c-3743186643a1)
 # API 
+
+![Screenshot 2024-03-11 125303](https://github.com/Aditi22222/Node.js-/assets/162342704/768ae9b0-8d86-475f-9c2c-8fc11cffac88)
+
+![Screenshot 2024-03-11 125314](https://github.com/Aditi22222/Node.js-/assets/162342704/6e06adaf-b6b9-4d0c-9e01-52681e5a5e7a)
 
