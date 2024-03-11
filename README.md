@@ -9,6 +9,7 @@
 - [Core Module ](Core-Module)
 - [Nodemon Package](Nodemon-Package)
 - [API](API)
+- [Postman](Postman)
 
 
 # Introduction to Node.js
@@ -82,3 +83,4 @@ Save the file and run it using Node.js by typing the following command in the te
 
 ![Screenshot 2024-03-11 125314](https://github.com/Aditi22222/Node.js-/assets/162342704/6e06adaf-b6b9-4d0c-9e01-52681e5a5e7a)
 
+# Postman
