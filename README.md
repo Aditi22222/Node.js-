@@ -11,6 +11,7 @@
 - [API](API)
 - [Postman](Postman)
 - [Input from cammand line](Input-from-cammand-line)
+- [Create file with input](Create-file-with-input)
 
 
 # Introduction to Node.js
@@ -122,3 +123,4 @@ Click on the "Send" button to send the request to the Node.js server.
 
 ![Screenshot 2024-03-12 102833](https://github.com/Aditi22222/Node.js-/assets/162342704/d7ae692a-d94b-48c0-af76-996327fefd19)
 
+# Create file with input
