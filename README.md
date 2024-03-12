@@ -13,6 +13,7 @@
 - [Input from cammand line](Input-from-cammand-line)
 - [Create file with input](Create-file-with-input)
 - [Delete the file with input](Delete-the-file-with-input)
+- [Desplay file list from folder](Desplay-file-list-from-folder)
 
 
 # Introduction to Node.js
@@ -138,3 +139,5 @@ Click on the "Send" button to send the request to the Node.js server.
 # Delete the file with input
 
 ![Screenshot 2024-03-12 110527](https://github.com/Aditi22222/Node.js-/assets/162342704/763abc18-35c1-47c8-af51-ac30de6f790f)
+
+# Desplay file list from folder
