@@ -141,3 +141,5 @@ Click on the "Send" button to send the request to the Node.js server.
 ![Screenshot 2024-03-12 110527](https://github.com/Aditi22222/Node.js-/assets/162342704/763abc18-35c1-47c8-af51-ac30de6f790f)
 
 # Desplay file list from folder
+
+![Screenshot 2024-03-12 131713](https://github.com/Aditi22222/Node.js-/assets/162342704/da33b225-57e9-4494-9fc0-a8ba611129ff)
