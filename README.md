@@ -12,6 +12,7 @@
 - [Postman](Postman)
 - [Input from cammand line](Input-from-cammand-line)
 - [Create file with input](Create-file-with-input)
+- [Delete the file with input](Delete-the-file-with-input)
 
 
 # Introduction to Node.js
@@ -133,4 +134,6 @@ Click on the "Send" button to send the request to the Node.js server.
 
 
 ![Screenshot 2024-03-12 105117](https://github.com/Aditi22222/Node.js-/assets/162342704/08cc5850-4d90-4911-85f3-ff8c19885639)
+
+# Delete the file with input
 
