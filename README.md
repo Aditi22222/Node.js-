@@ -125,4 +125,12 @@ Click on the "Send" button to send the request to the Node.js server.
 
 # Create file with input
 
+- The script utilizes Node.js's built-in `fs` module for file system operations.
+- It accesses command line arguments using `process.argv`.
+- If the third argument (`input[2]`) is `'add'`, it writes the content provided as the fourth argument (`input[4]`) to the file specified as the third argument (`input[3]`).
+- If the third argument is `'remove'`, it removes the file specified as the third argument (`input[3]`).
+- If the third argument is neither `'add'` nor `'remove'`, it prints "Invalid input" to the console.
+
+
 ![Screenshot 2024-03-12 105117](https://github.com/Aditi22222/Node.js-/assets/162342704/08cc5850-4d90-4911-85f3-ff8c19885639)
+
