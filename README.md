@@ -10,6 +10,7 @@
 - [Nodemon Package](Nodemon-Package)
 - [API](API)
 - [Postman](Postman)
+- [Input from cammand line](Input-from-cammand-line)
 
 
 # Introduction to Node.js
@@ -116,4 +117,8 @@ Click on the "Send" button to send the request to the Node.js server.
 ![Screenshot 2024-03-11 152637](https://github.com/Aditi22222/Node.js-/assets/162342704/c3a956ea-f8bc-40db-9b7f-4e18b0055a2e)
 
 ![Screenshot 2024-03-11 152654](https://github.com/Aditi22222/Node.js-/assets/162342704/8e71be5c-edb7-489f-a9b4-331639384cde)
+
+# Input from cammand line
+
+![Screenshot 2024-03-12 102833](https://github.com/Aditi22222/Node.js-/assets/162342704/d7ae692a-d94b-48c0-af76-996327fefd19)
 
