@@ -124,3 +124,5 @@ Click on the "Send" button to send the request to the Node.js server.
 ![Screenshot 2024-03-12 102833](https://github.com/Aditi22222/Node.js-/assets/162342704/d7ae692a-d94b-48c0-af76-996327fefd19)
 
 # Create file with input
+
+![Screenshot 2024-03-12 105117](https://github.com/Aditi22222/Node.js-/assets/162342704/08cc5850-4d90-4911-85f3-ff8c19885639)
