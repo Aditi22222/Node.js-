@@ -137,3 +137,4 @@ Click on the "Send" button to send the request to the Node.js server.
 
 # Delete the file with input
 
+![Screenshot 2024-03-12 105117](https://github.com/Aditi22222/Node.js-/assets/162342704/4818f115-58ca-4abb-9640-d140c8661629)
