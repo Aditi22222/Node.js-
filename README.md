@@ -52,7 +52,7 @@ This command will display the installed version of Node.js and npm, respectively
 
 ![Screenshot 2024-03-09 115031](https://github.com/Aditi22222/Node.js-/assets/162342704/0f7271ca-f7e9-4ae8-866b-18ca9fb39c36)
 
-![Screenshot from 2024-03-27 10-41-21](https://github.com/Aditi22222/Node.js-/assets/162342704/1956b252-3dd9-4fb6-bc41-c92f6365a77b)
+
 
 6. **Test Installation**: To ensure that Node.js is working correctly, create a simple JavaScript file (e.g., `app.js`) with the following code:
 
